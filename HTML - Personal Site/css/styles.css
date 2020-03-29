@@ -1,0 +1,35 @@
+body {
+  background-color: #cae8d5;
+}
+table{
+  margin-left:auto;
+  margin-right:auto;
+  background-color:  #cae8d5;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #204051;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 2px;
+}
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
+hr{
+  height: 0px;
+  border-style: dotted none none none;
+  background-color:  none;
+  border-color: #381460;
+  border-width: 5px;
+  width:30%;
+}
+.center {
+  text-align: center;
+  border: none;
+}
